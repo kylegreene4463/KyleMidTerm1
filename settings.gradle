@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "KyleMidTerm1"
-include ':app'
+include ':KyleGre1'

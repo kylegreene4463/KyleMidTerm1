@@ -1,4 +1,4 @@
-package kyle.greene.n01534463.mid.KyleGre1;
+package kyle.greene.n01534463.mid.ky;
 
 import android.content.Context;
 
